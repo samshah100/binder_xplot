@@ -5,10 +5,10 @@ channels:
   - QuantStack
 dependencies:
   - xeus-cling=0.8.1
-  - xtensor=0.21.2
-  - xtensor-blas=0.17.1
+  - xtensor 
+  - xtensor-blas 
   - notebook
-  - xwidgets=0.8.2
-  - xplot=0.5.0
-  - bqplot=0.10.5
-  - widgetsnbextension >=3.0.0
+  - xwidgets  
+  - xplot
+  - bqplot 
+  - widgetsnbextension 
