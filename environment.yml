@@ -1,5 +1,6 @@
 name: xplot
 channels:
+  - gouarin
   - QuantStack
   - conda-forge
 dependencies:
